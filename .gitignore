@@ -13,3 +13,5 @@ Cargo.lock
 # Added by cargo
 
 /target
+charts/.DS_Store
+.DS_Store
